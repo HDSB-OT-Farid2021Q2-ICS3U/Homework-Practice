@@ -10,5 +10,5 @@ If working on the problems using repl with GitHub intergration, make sure to set
 
 ```
 language="python3"
-run="foldername/filename.py"
+run="python 'Python Practice/Operator Practice/Question 1.py'"
 ```
